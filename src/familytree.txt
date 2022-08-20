@@ -1,0 +1,19 @@
+@CopyRight Lineaje (2022)
+
+Use the language of your choice.  If you want to use json or BTree helper libraries, that is fine as well. Once completed, upload code and build instructions.  Also, generate output and print them.
+
+1. Given a BTree (see attached json file) representing a family lineage, evaluate the following:
+2. Evaluate the BTree input and identify nodes that are invalid and print the reason for validation failure.
+    a. Ignoring the invalid nodes:
+    b. Print individual family lines and mark the family line that was shortest and longest.
+    c. Print all family members and their age
+    d. Order age of family members in ascending order
+    e. Find the range of period this lineage was active - ie., first ancestor birth year to the death year last member.
+    f. Find mean age for this lineage
+    g. Find the median age for this lineage
+    h. Group and print middle 50% of members (name and age) of this lineage using IQR (Interquartile Range) 
+    i. Who lived longest (name and age) in this lineage?  Who died the youngest (name and age)?
+3. Bonus points:
+    a. Test data generator code to generate random lineage json generator 
+    b. Instead of a single file as input, take directory of lineage json files as input and generate output files for each json.
+    c. Design a "worker thread pool class" with a preconfigured number of worker threads.  Then, utilize this worker thread pool class to process familytree*.json files from a directory.  Test with 20 familytree*.json samples and use threat pool size of 1, 2 and 5.  
