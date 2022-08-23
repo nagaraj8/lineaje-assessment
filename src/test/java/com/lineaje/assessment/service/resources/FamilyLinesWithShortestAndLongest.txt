@@ -1,0 +1,25 @@
+Printing family tree for family: 1
+Name: First- Birth Year: 1221 Death Year: 1264
+Name: Second- Birth Year: 1245 Death Year: 1300
+Name: Third- Birth Year: 1270 Death Year: 1333
+Name: Third-- Birth Year: 1272 Death Year: 1300
+Name: Third-- Birth Year: 1272 Death Year: 1340
+Name: Third--- Birth Year: 1274 Death Year: 1343
+Name: Second-- Birth Year: 1248 Death Year: 1310
+Name: Third-/ Birth Year: 1274 Death Year: 1330
+Name: Third-// Birth Year: 1276 Death Year: 1312
+Name: Third-/// Birth Year: 1276 Death Year: 1344
+Name: Third-//// Birth Year: 1278 Death Year: 1352
+Printing family tree for family: 2
+Name: First-- Birth Year: 1212 Death Year: 1260
+Name: Second+ Birth Year: 1243 Death Year: 1312
+Name: Second++ Birth Year: 1245 Death Year: 1274
+Name: Third+/ Birth Year: 1274 Death Year: 1330
+Name: Third+// Birth Year: 1276 Death Year: 1312
+Name: Third+/// Birth Year: 1250 Death Year: 1344
+Name: Third+//// Birth Year: 1278 Death Year: 1352
+Name: Second++ Birth Year: 1243 Death Year: 1260
+
+Shortest Family line is: 3
+Longest Family line is: 3
+

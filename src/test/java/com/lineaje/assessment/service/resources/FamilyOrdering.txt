@@ -1,0 +1,21 @@
+After ordering in ascending order
+Name: Second++ and Age: 17
+Name: Third-- and Age: 28
+Name: Second++ and Age: 29
+Name: Third-// and Age: 36
+Name: Third+// and Age: 36
+Name: First- and Age: 43
+Name: First-- and Age: 48
+Name: Second- and Age: 55
+Name: Third-/ and Age: 56
+Name: Third+/ and Age: 56
+Name: Second-- and Age: 62
+Name: Third- and Age: 63
+Name: Third-- and Age: 68
+Name: Third-/// and Age: 68
+Name: Third--- and Age: 69
+Name: Second+ and Age: 69
+Name: Third-//// and Age: 74
+Name: Third+//// and Age: 74
+Name: Third+/// and Age: 94
+
